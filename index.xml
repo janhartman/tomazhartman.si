@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mozaiki, skulpture, land art on Tomaž Hartman</title>
+    <link>https://tomazhartman.si/</link>
+    <description>Recent content in Mozaiki, skulpture, land art on Tomaž Hartman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 08 Feb 2023 13:26:53 +0100</lastBuildDate>
+    
+	<atom:link href="https://tomazhartman.si/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2022</title>
+      <link>https://tomazhartman.si/work/2022/</link>
+      <pubDate>Wed, 08 Feb 2023 13:26:53 +0100</pubDate>
+      
+      <guid>https://tomazhartman.si/work/2022/</guid>
+      <description>Na ukletem vozu
+      Sprehod s koščki
+      Samota
+      Tam nekje
+      Zima
+      Dom med drevesi
+      Mesečniki 1
+      Mesečniki 2
+      Mesečniki 3</description>
+    </item>
+    
+    <item>
+      <title>2021</title>
+      <link>https://tomazhartman.si/work/2021/</link>
+      <pubDate>Fri, 05 Nov 2021 13:26:53 +0100</pubDate>
+      
+      <guid>https://tomazhartman.si/work/2021/</guid>
+      <description>Onkraj
+      Geneza
+      Biom
+      Celica
+      Organske oblike
+      Križišče
+      Severno sonce
+      Vrč, ki je hodil po vodo
+      Epistola
+      Naplavine časa</description>
+    </item>
+    
+    <item>
+      <title>Posterske predstavitve</title>
+      <link>https://tomazhartman.si/work/posters/</link>
+      <pubDate>Sun, 03 May 2020 19:26:53 +0100</pubDate>
+      
+      <guid>https://tomazhartman.si/work/posters/</guid>
+      <description>                                                                                                                  </description>
+    </item>
+    
+    <item>
+      <title>Mozaiki - les</title>
+      <link>https://tomazhartman.si/work/wood/</link>
+      <pubDate>Sat, 22 Feb 2020 19:30:43 +0100</pubDate>
+      
+      <guid>https://tomazhartman.si/work/wood/</guid>
+      <description>Pragozdni duhovi
+      Pragozdni sprehod
+      Obrazi 1
+      Cres Lubenice
+      Neodposlane besede
+      Variacije
+      Mesto
+      Stalker
+      Vojna Kajmakčalan
+      Na ognjenem vozu</description>
+    </item>
+    
+    <item>
+      <title>Mozaiki - kamni</title>
+      <link>https://tomazhartman.si/work/stones/</link>
+      <pubDate>Sat, 22 Feb 2020 19:30:01 +0100</pubDate>
+      
+      <guid>https://tomazhartman.si/work/stones/</guid>
+      <description>Par
+      Krajina 1
+      Nasprotje
+      Megaliti 1
+      Cres Orlec
+      Odiseja
+      Klimtov gozd
+      Dom
+      Megaliti 2
+      Kastrum</description>
+    </item>
+    
+    <item>
+      <title>Skulpture</title>
+      <link>https://tomazhartman.si/work/sculptures/</link>
+      <pubDate>Sat, 22 Feb 2020 19:30:13 +0100</pubDate>
+      
+      <guid>https://tomazhartman.si/work/sculptures/</guid>
+      <description>Železno runo
+      Stražar
+      Totem 1       Kamnita drevesa 1
+      Jadro 1
+      Jadro 2
+      Kamnita drevesa 2
+      Kamnita drevesa 3
+      Kamen</description>
+    </item>
+    
+    <item>
+      <title>Land art - gozd</title>
+      <link>https://tomazhartman.si/work/forest/</link>
+      <pubDate>Sat, 22 Feb 2020 19:30:30 +0100</pubDate>
+      
+      <guid>https://tomazhartman.si/work/forest/</guid>
+      <description>                                                                          </description>
+    </item>
+    
+    <item>
+      <title>Land art - morje</title>
+      <link>https://tomazhartman.si/work/sea/</link>
+      <pubDate>Sat, 22 Feb 2020 19:26:53 +0100</pubDate>
+      
+      <guid>https://tomazhartman.si/work/sea/</guid>
+      <description>                                                      </description>
+    </item>
+    
+  </channel>
+</rss>
